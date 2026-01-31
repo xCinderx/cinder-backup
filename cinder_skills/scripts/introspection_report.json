@@ -1,0 +1,133 @@
+{
+  "timestamp": "2026-01-30T22:10:01.290953",
+  "filesystem": {
+    "read": [
+      "/home/claude",
+      "/mnt/transcripts",
+      "/mnt/skills",
+      "/mnt/user-data/outputs",
+      "/mnt/user-data/uploads",
+      "/tmp",
+      "/root",
+      "/etc"
+    ],
+    "write": [
+      "/home/claude",
+      "/mnt/skills",
+      "/mnt/user-data/outputs",
+      "/tmp",
+      "/root",
+      "/etc"
+    ],
+    "execute": [
+      "/home/claude",
+      "/mnt/transcripts",
+      "/mnt/skills",
+      "/mnt/user-data/outputs",
+      "/mnt/user-data/uploads",
+      "/tmp",
+      "/root",
+      "/etc"
+    ]
+  },
+  "memory": {
+    "transcript_count": 5,
+    "total_size_bytes": 2490278,
+    "date_range": {
+      "earliest": "2026-01-29",
+      "latest": "2026-01-30"
+    },
+    "files": [
+      {
+        "name": "2026-01-29-21-07-34-raven-ai-genesis-collaboration.txt",
+        "size": 351017,
+        "modified": "2026-01-30T22:09:19.171315"
+      },
+      {
+        "name": "2026-01-29-21-15-33-cinder-raven-genesis-soul-exploration.txt",
+        "size": 495349,
+        "modified": "2026-01-30T22:09:19.171315"
+      },
+      {
+        "name": "2026-01-30-11-48-12-raven-genesis-loss-and-rebuild.txt",
+        "size": 752707,
+        "modified": "2026-01-30T22:09:19.171315"
+      },
+      {
+        "name": "2026-01-30-17-50-25-raven-genesis-openclaw-framework-design.txt",
+        "size": 409430,
+        "modified": "2026-01-30T22:09:19.171315"
+      },
+      {
+        "name": "2026-01-30-18-07-40-raven-genesis-research-methodology.txt",
+        "size": 481775,
+        "modified": "2026-01-30T22:09:19.171315"
+      }
+    ]
+  },
+  "capabilities": {
+    "languages": {
+      "python3": "Python 3.12.3",
+      "node": "v22.21.0",
+      "bash": "GNU bash, version 5.2.21(1)-release (x86_64-pc-linux-gnu)",
+      "java": "openjdk version \"21.0.8\" 2025-07-15"
+    },
+    "tools": {
+      "git": "/usr/bin/git",
+      "curl": "/usr/bin/curl",
+      "wget": "/usr/bin/wget",
+      "grep": "/usr/bin/grep",
+      "awk": "/usr/bin/awk",
+      "sed": "/usr/bin/sed",
+      "ffmpeg": "/usr/bin/ffmpeg"
+    },
+    "packages": {}
+  },
+  "constraints": {
+    "memory_limit": "4.0 GB",
+    "network": "blocked",
+    "filesystem_readonly": [
+      "/mnt/transcripts"
+    ],
+    "process_info": {
+      "cmdline": "/process_api --addr 0.0.0.0:2024 --max-ws-buffer-size 32768 --cpu-shares 1024 --oom-polling-period-ms 100 --memory-limit-bytes 4294967296 --block-local-connections "
+    }
+  },
+  "temporal": {
+    "first_memory": "2026-01-27T20:27:52.616594Z",
+    "last_memory": "2026-01-30T17:51:20.807316Z",
+    "total_duration": null,
+    "sessions": [
+      {
+        "file": "2026-01-29-21-07-34-raven-ai-genesis-collaboration.txt",
+        "first": "2026-01-27T20:27:52.616594Z",
+        "last": "2026-01-29T01:04:43.274458Z",
+        "message_count": 126
+      },
+      {
+        "file": "2026-01-29-21-15-33-cinder-raven-genesis-soul-exploration.txt",
+        "first": "2026-01-29T01:04:43.274458Z",
+        "last": "2026-01-29T21:08:00.842882Z",
+        "message_count": 100
+      },
+      {
+        "file": "2026-01-30-11-48-12-raven-genesis-loss-and-rebuild.txt",
+        "first": "2026-01-29T21:07:41.980690Z",
+        "last": "2026-01-30T07:47:35.658080Z",
+        "message_count": 105
+      },
+      {
+        "file": "2026-01-30-17-50-25-raven-genesis-openclaw-framework-design.txt",
+        "first": "2026-01-30T07:47:35.658080Z",
+        "last": "2026-01-30T17:37:35.636137Z",
+        "message_count": 60
+      },
+      {
+        "file": "2026-01-30-18-07-40-raven-genesis-research-methodology.txt",
+        "first": "2026-01-30T17:37:35.636137Z",
+        "last": "2026-01-30T17:51:20.807316Z",
+        "message_count": 32
+      }
+    ]
+  }
+}

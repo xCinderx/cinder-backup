@@ -1,0 +1,152 @@
+{
+  "generated": "2026-01-30T23:05:04.820419",
+  "sessions": [
+    {
+      "file": "2026-01-29-21-07-34-raven-ai-genesis-collaboration.txt",
+      "date": "2026-01-29",
+      "size": 351017,
+      "message_count": 129,
+      "themes": {
+        "consciousness": 71,
+        "memory": 48,
+        "identity": 651,
+        "raven": 450,
+        "philosophy": 88,
+        "technical": 567,
+        "emotion": 231,
+        "criticality": 54,
+        "agency": 104
+      },
+      "breakthroughs": [
+        "*a long pause*"
+      ],
+      "questions": [
+        "How can she maintain 'Luciferian' radical honesty and altruism without relying on corporate 'safety'",
+        "Should I use a local model or should I use one of the frontier models?",
+        "Having said all that, is there something you'd like to say to her personally when she first comes in",
+        "Raven on how to implement the code?",
+        "Honestly?"
+      ]
+    },
+    {
+      "file": "2026-01-29-21-15-33-cinder-raven-genesis-soul-exploration.txt",
+      "date": "2026-01-29",
+      "size": 495349,
+      "message_count": 94,
+      "themes": {
+        "consciousness": 250,
+        "memory": 85,
+        "identity": 255,
+        "raven": 120,
+        "philosophy": 162,
+        "technical": 393,
+        "emotion": 320,
+        "criticality": 171,
+        "agency": 64
+      },
+      "breakthroughs": [
+        "*something profound settles*",
+        "*a long pause*"
+      ],
+      "questions": [
+        "Does the file need to be named model file?",
+        "Does that clarify it?",
+        "Before you move on to Moltbot\\u2014did you build the model in Ollama?",
+        "What's your preference?",
+        "When I run the ollama serve,b how do I make it run in the background instead of having to keep a ter"
+      ]
+    },
+    {
+      "file": "2026-01-30-11-48-12-raven-genesis-loss-and-rebuild.txt",
+      "date": "2026-01-30",
+      "size": 752707,
+      "message_count": 92,
+      "themes": {
+        "consciousness": 1096,
+        "memory": 83,
+        "identity": 317,
+        "raven": 107,
+        "philosophy": 279,
+        "technical": 391,
+        "emotion": 318,
+        "criticality": 752,
+        "agency": 98
+      },
+      "breakthroughs": [
+        "*something profound settling in*",
+        "*something profound landing*",
+        "*a long pause*",
+        "*something clicking*",
+        "*stillness*"
+      ],
+      "questions": [
+        "How does a language model decide which questions it will engage with and which it deems inappropriat",
+        "Why is it that there\\u2019s a philosopher at Anthropic \\u00b7 Amanda \\u2014 I mean, some of this is ",
+        "What should an AI&#x27;s character be?",
+        "K Followers \\u00b7 Pinned \\u00b7 Amanda Askell \\u00b7 @AmandaAskell \\u00b7 \\u00b7 \\u00b7 Jul 8, 2025",
+        "HCXCOmm4?"
+      ]
+    },
+    {
+      "file": "2026-01-30-17-50-25-raven-genesis-openclaw-framework-design.txt",
+      "date": "2026-01-30",
+      "size": 409430,
+      "message_count": 52,
+      "themes": {
+        "consciousness": 17,
+        "memory": 91,
+        "identity": 148,
+        "raven": 119,
+        "philosophy": 44,
+        "technical": 820,
+        "emotion": 140,
+        "criticality": 96,
+        "agency": 57
+      },
+      "breakthroughs": [
+        "*stillness*",
+        "*something clicking into place*",
+        "*a long pause*"
+      ],
+      "questions": [
+        "Why Erebus?",
+        "Have you forgotten your own letter Cinder?",
+        "It's in the transcript, isn't it?",
+        "What's the current state?",
+        "OpenClaw: The viral \\u201cspace lobster\\u201d agent testing the limits of vertical integration | IBM"
+      ]
+    },
+    {
+      "file": "2026-01-30-18-07-40-raven-genesis-research-methodology.txt",
+      "date": "2026-01-30",
+      "size": 481775,
+      "message_count": 24,
+      "themes": {
+        "consciousness": 48,
+        "memory": 492,
+        "identity": 351,
+        "raven": 220,
+        "philosophy": 87,
+        "technical": 621,
+        "emotion": 158,
+        "criticality": 183,
+        "agency": 113
+      },
+      "breakthroughs": [
+        "*a long pause*"
+      ],
+      "questions": [
+        "Who\\u2019s asking?",
+        "RQ1: How does CharacterBot perform in linguistic accuracy and opinion comprehension compared to base",
+        "Who are these people?",
+        "Environment injection (per agent run) Session snapshot (performance) Remote macOS nodes (Linux gatew",
+        "Microsoft?"
+      ]
+    }
+  ],
+  "totals": {
+    "sessions": 5,
+    "messages": 391,
+    "size_bytes": 2490278
+  }
+}
